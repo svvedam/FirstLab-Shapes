@@ -7,7 +7,7 @@ import java.awt.geom.*;
  * @author  Michael Kölling and David J. Barnes
  * @version 1.0  (15 July 2000)
  */
-
+//comment
 public class Circle
 {
     private int diameter;
